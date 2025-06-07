@@ -82,21 +82,27 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 
 ## 5. Create the Trigger File in Linux✅ 
 **Navigated to the triggers directory and created the `dishsoap.lol` file:**
+
 **Command: touch /opt/nessus_agent/var/nessus/triggers/dishsoap.lol**
+
 ![15- Creating dishsoap lol inside the triggers folder](https://github.com/user-attachments/assets/7bc79dc0-1da4-469d-88dd-eb3a4c823469)
 
 **Checking file details:** ✅
+
 **Command: ls -lasht** ✅
+
 ![16- checking the size of the file](https://github.com/user-attachments/assets/961175e0-f96d-44e9-b4de-e44c8c786558)
 
 ## 6. Confirm Nessus Agent Status✅
 
 **Verified that the Nessus Agent was running properly:**
+
 **command: sudo systemctl status nessusagent.service**
 
 ![17- Ran this command to make sure the agent was running](https://github.com/user-attachments/assets/8efe77c3-6f79-4438-b4f4-59d23b151c32)
 
 ## 7. Triggered Scan Results✅
+
 **After about 10 minutes, the file dishsoap.lol was automatically detected, the scan triggered, and the file deleted:** ✅
 
 ![18- After 10 minutes the file was deleted from the folders making the agent successful](https://github.com/user-attachments/assets/79e5df4f-3b3c-4b39-934c-05c8a5eb6435)
@@ -106,10 +112,11 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 ![19- Tenable showing the scan was triggered](https://github.com/user-attachments/assets/8e463c45-20d0-4ef1-afb9-a8ba70536715)
 
 **Project Summary**
+
 **This project demonstrates the deployment and configuration of the Tenable Nessus Agent on an Ubuntu Linux 22.04 VM in Azure, using Tenable’s cloud-based scanning platform. It showcases:**
 
-**✅ VM creation**
-**✅ Nessus Agent Group creation**
-**✅ Nessus Agent installation and linking**
-**✅ Triggered scan configuration**
-**✅ Verification of file-based triggers and scan results**
+-**✅ VM creation**
+-**✅ Nessus Agent Group creation**
+-**✅ Nessus Agent installation and linking**
+-**✅ Triggered scan configuration**
+-**✅ Verification of file-based triggers and scan results**
