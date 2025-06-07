@@ -17,7 +17,7 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 ---
 ![graphic_nessus_agent_technical_paper1](https://github.com/user-attachments/assets/a4a1d091-9d7c-4d81-a9d8-38c751933405)
 
-![OIP](https://github.com/user-attachments/assets/2a5b2a46-d8d8-41a4-aea2-0cabcc314f1d)
+![Linux-Logo-1996-present-700x394](https://github.com/user-attachments/assets/c849f4c6-be62-441b-92fd-f0b92d33c994)
 
 ## 1. VM and Nessus Agent Setup✅
 
