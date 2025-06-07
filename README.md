@@ -15,6 +15,9 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 - **Tenable Agent Groups** (for grouping scan targets)
 
 ---
+![graphic_nessus_agent_technical_paper1](https://github.com/user-attachments/assets/a4a1d091-9d7c-4d81-a9d8-38c751933405)
+
+![OIP](https://github.com/user-attachments/assets/2a5b2a46-d8d8-41a4-aea2-0cabcc314f1d)
 
 ## 1. VM and Nessus Agent Setup✅
 
@@ -120,3 +123,6 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 -**✅ Nessus Agent installation and linking**
 -**✅ Triggered scan configuration**
 -**✅ Verification of file-based triggers and scan results**
+
+![png-clipart-club-penguin-bird-gentoo-penguin-king-penguin-goodbye-animals-words-phrases](https://github.com/user-attachments/assets/7a36382d-b441-476a-a0b8-6d8e2674809e)
+
