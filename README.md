@@ -1,5 +1,7 @@
 # Nessus Agent Scan Project Implementation on Linux
 
+![Linux-Logo-1996-present-700x394](https://github.com/user-attachments/assets/c849f4c6-be62-441b-92fd-f0b92d33c994)
+
 In this project, we demonstrate the deployment of a Nessus Agent on an **Ubuntu Linux 22.04 VM** in **Azure**, and the configuration of an authenticated vulnerability scan using Tenable’s cloud platform.
 
 _**Inception State:**_ No Nessus Agent installed or configured, no scan group created.
@@ -16,8 +18,6 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 
 ---
 ![graphic_nessus_agent_technical_paper1](https://github.com/user-attachments/assets/a4a1d091-9d7c-4d81-a9d8-38c751933405)
-
-![Linux-Logo-1996-present-700x394](https://github.com/user-attachments/assets/c849f4c6-be62-441b-92fd-f0b92d33c994)
 
 ## 1. VM and Nessus Agent Setup✅
 
@@ -124,5 +124,5 @@ _**Completion State:**_ Nessus Agent fully installed, agent group created, scan 
 -**✅ Triggered scan configuration**
 -**✅ Verification of file-based triggers and scan results**
 
-![png-clipart-club-penguin-bird-gentoo-penguin-king-penguin-goodbye-animals-words-phrases](https://github.com/user-attachments/assets/7a36382d-b441-476a-a0b8-6d8e2674809e)
+![linux-pictures-h2knvdg022gb66t9](https://github.com/user-attachments/assets/ac5c9be3-de50-4c1d-8cc5-99ee8eec80c8)
 
